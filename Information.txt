@@ -1,0 +1,13 @@
+
+Database Name: e-commerce_db
+=============================
+
+Admin Login Details:
+====================
+Login Id: admin
+Password: admin
+
+Demo User Login Details:
+========================
+Login Id: sumanta@gmail.com
+Password: sumanta
